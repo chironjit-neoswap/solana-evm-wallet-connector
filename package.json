@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@dynamic-labs/ethereum-all": "^0.18.12",
+    "@dynamic-labs/sdk-react-core": "^0.18.12",
+    "@dynamic-labs/solana-all": "^0.18.12",
     "autoprefixer": "10.4.15",
     "next": "13.4.19",
     "postcss": "8.4.29",
